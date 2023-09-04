@@ -1,4 +1,4 @@
 # demo
 This is my demo git repository.
 <br>
-Author- Zakariya Iqbal.
+Author- Zakariya Mohammed Iqbal 
